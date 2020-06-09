@@ -1,2 +1,4 @@
-# Machine-Learing
-To make notes about machine learning lesson.
+# 介绍
+
+最近在学习吴恩达的机器学习系列课程，本学习笔记用于记录机器学习课程的知识点，以便日后的参考。
+
